@@ -38,7 +38,7 @@ No Need To Ask Wifi Password, HACK it..! This Cyber Security Tool, Will Hack For
 
 [08] Scan for WPS Networks
 
-[09] Crack Handshake with rockyou.txt
+[09] Crack Handshake with cracklist.txt
 
 [10] Crack Handshake with wordlist
 
