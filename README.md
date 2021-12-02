@@ -65,12 +65,7 @@ No Need To Ask Wifi Password, HACK it..! This Cyber Security Tool, Will Hack For
 [2] sudo git clone https://github.com/Err0r-ICA/AutoCrack
 [3] cd AutoCrack
 [4] sudo python2 AutoCrack
-```
-
-## Creator
-
-(Ankit Kanojiya) Hey, Dont Forget To say Thanks me :smile:
-
+``` 
 
 # SCREENSHOT
 ![Screenshot](https://i.postimg.cc/13JKf8C4/Screenshot-2021-12-02-18-52-25-12-84d3000e3f4017145260f7618db1d683.jpg) 
@@ -92,9 +87,6 @@ No Need To Ask Wifi Password, HACK it..! This Cyber Security Tool, Will Hack For
 
 # Disclaimer 
 
-
 AutoCrack tool not responsible for misuse and for illegal purposes. Use it only for Pentest or Educational purpose :smile: !!!
-
-
 
 > Pull requests are always welcome
