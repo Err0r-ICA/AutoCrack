@@ -7,9 +7,13 @@
 
 
 
-# Wifi-Hacking.py  ![alt tag](http://icons.iconarchive.com/icons/icons8/ios7/48/Network-Wifi-Logo-icon.png)
+# AutoCrack  ![alt tag](http://icons.iconarchive.com/icons/icons8/ios7/48/Network-Wifi-Logo-icon.png)
 
-
+<p align="center">
+  <img alt="Err0r-ICA' Github Stats" src="https://github-readme-stats.vercel.app/api?username=Err0r-ICA&show_icons=true&include_all_commits=true&hide_border=true" />
+<!--  <img alt="profile pic" width="195px" src="https://avatars2.githubusercontent.com/u/26059688?s=460&u=d41b000a62eab50d000c3da604d151cec27bd850&v=4" />  -->
+<!--  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Err0r-ICA&hide=ruby,perl&hide_border=true" />  -->
+</p>
 
 No Need To Ask Wifi Password, HACK it..! This Cyber Security Tool, Will Hack For You Any Wifi-Password..!
 
@@ -21,27 +25,27 @@ No Need To Ask Wifi Password, HACK it..! This Cyber Security Tool, Will Hack For
 
 
 ```bash 
-1)Start monitor mode
+[01] Start monitor mode
 
-2)Stop monitor mode
+[02] Stop monitor mode
 
-3)Scan Networks   
+[03] Scan Networks   
 
-4)Getting Handshake
+[04] Getting Handshake
 
-5)Create wordlist
+[05] Create wordlist
 
-6)Install Wireless tools                  
+[06] Install Wireless tools                  
 
-7)WPS Networks attacks 
+[07] WPS Networks attacks 
 
-8)Scan for WPS Networks
+[08] Scan for WPS Networks
 
-9)Crack Handshake with rockyou.txt
+[09] Crack Handshake with rockyou.txt
 
-10)Crack Handshake with wordlist
+[10] Crack Handshake with wordlist
 
-11)Crack Handshake without wordlist
+[11] Crack Handshake without wordlist
 ```
 
 ## Tested On :
@@ -60,10 +64,10 @@ No Need To Ask Wifi Password, HACK it..! This Cyber Security Tool, Will Hack For
 ### Kali Linux / Ubuntu / Parrot OS
 
 ```bash
-1) sudo apt-get update && apt-get install git
-2) sudo git clone https://github.com/ankit0183/Wifi-Hacking
-3) cd Wifi-Hacking/
-4) sudo python3 Wifi-Hacking.py
+[1] sudo apt-get update && apt-get install git
+[2] sudo git clone https://github.com/Err0r-ICA/AutoCrack
+[3] cd AutoCrack
+[4] sudo python2 AutoCrack
 ```
 
 ## Creator
@@ -72,54 +76,28 @@ No Need To Ask Wifi Password, HACK it..! This Cyber Security Tool, Will Hack For
 
 
 # SCREENSHOT
+![Screenshot](https://i.postimg.cc/13JKf8C4/Screenshot-2021-12-02-18-52-25-12-84d3000e3f4017145260f7618db1d683.jpg) 
 
+### My Accounts
 
-![](Snapshots/0.png)
-![](Snapshots/1.png)
-![](Snapshots/2.png)
-![](Snapshots/3.png)
-![](Snapshots/4.png)
-![](Snapshots/5.png)
-![](Snapshots/6.png)
-![](Snapshots/7.png)
+* [TELEGRAM](https://t.me/termuxxhacking)
 
+* [FACEBOOK](https://www.facebook.com/termuxxhacking)
 
+* [INSTAGRAM](https://instagram.com/termux_hacking)
 
-
-
-# Feel Free To Contact Me.
-
-
- ### if you like my work, Buy me a Cup of Coffee PhonePay/PayTm/GPAy 9768367597
-
-### Whats App Me: +919768367597  
-
-### - [Instagram](https://www.instagram.com/ankit_kanojiya69/)
-
+<p align="center">
+<a href="https://github.com/Err0r-ICA/followers"><img title="Followers" src="https://img.shields.io/github/followers/lovehacker404?color=blue&style=flat-square"></a>
+<a href="https://github.com/Err0r-ICA/World/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/lovehacker404/World?color=red&style=flat-square"></a>
+<a href="https://github.com/Err0r-ICA/World/network/members"><img title="Forks" src="https://img.shields.io/github/forks/lovehacker404/World?color=red&style=flat-square"></a>
+<a href="https://github.com/Err0r-ICA/World/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/lovehacker404/World?label=Watchers&color=blue&style=flat-square"></a>
+</p>
 
 # Disclaimer 
 
 
-Wifi-Hacking tool not responsible for misuse and for illegal purposes. Use it only for Pentest or Educational purpose :smile: !!!
+AutoCrack tool not responsible for misuse and for illegal purposes. Use it only for Pentest or Educational purpose :smile: !!!
 
 
 
-> Pull requests are always welcome.. :)  
-
-
-
-
-
-###### Donation
-
-If this CyberSecurity tool has been useful for you, feel free to thank me by buying me a coffee. :)
- 
- 
- 
- 
-### Happy Hacking ( Privacy & Security No Such Things Exists in digital World, We Can Hack Everything )
-
-
-
-
-
+> Pull requests are always welcome
