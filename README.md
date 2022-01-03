@@ -2,12 +2,9 @@
 [![python](https://img.shields.io/badge/python-2.7-brightgreen.svg)](https://www.python.org/downloads/release/python-2714/)
 [![OS](https://img.shields.io/badge/Tested%20On-Linux%20%7C%20Android-yellowgreen.svg)](https://termux.com/)
 
-
-
-
-
-
 # AutoCrack  ![alt tag](http://icons.iconarchive.com/icons/icons8/ios7/48/Network-Wifi-Logo-icon.png)
+
+⚠️WARNING!⚠️ Root Required
 
 <p align="center">
   <img alt="Err0r-ICA' Github Stats" src="https://github-readme-stats.vercel.app/api?username=Err0r-ICA&show_icons=true&include_all_commits=true&hide_border=true" />
@@ -17,8 +14,7 @@
 
 No Need To Ask Wifi Password, HACK it..! This Cyber Security Tool, Will Hack For You Any Wifi-Password..!
 
-
-## Feutures and Contains :
+## ✨ Feutures and Contains ✨
 
 
 ```bash 
@@ -45,7 +41,7 @@ No Need To Ask Wifi Password, HACK it..! This Cyber Security Tool, Will Hack For
 [11] Crack Handshake without wordlist
 ```
 
-## Tested On :
+## Tested On:
 
 * Kali Linux
 * BlackArch Linux
@@ -55,7 +51,7 @@ No Need To Ask Wifi Password, HACK it..! This Cyber Security Tool, Will Hack For
 * Parrot OS
 
 
-# Installation
+## 💿 Installation 💿
 
 
 ### Kali Linux / Ubuntu / Parrot OS
@@ -67,11 +63,11 @@ No Need To Ask Wifi Password, HACK it..! This Cyber Security Tool, Will Hack For
 [4] sudo python2 AutoCrack
 ``` 
 
-# SCREENSHOT
+## 📸 Screenshot 📸
 ![Screenshot](https://i.postimg.cc/13JKf8C4/Screenshot-2021-12-02-18-52-25-12-84d3000e3f4017145260f7618db1d683.jpg) 
 ![Screenshot](https://i.postimg.cc/QC9zqpz6/Screenshot-2021-12-02-19-31-20-95-1c337646f29875672b5a61192b9010f9.jpg) 
 
-### My Accounts
+### 👤 My Accounts 👤
 
 * [TELEGRAM](https://t.me/termuxxhacking)
 
@@ -86,7 +82,7 @@ No Need To Ask Wifi Password, HACK it..! This Cyber Security Tool, Will Hack For
 <a href="https://github.com/Err0r-ICA/World/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/lovehacker404/World?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
-# Disclaimer 
+# 📒 Disclaimer 📒
 
 AutoCrack tool not responsible for misuse and for illegal purposes. Use it only for Pentest or Educational purpose :smile: !!!
 
