@@ -69,7 +69,7 @@ No Need To Ask Wifi Password, HACK it..! This Cyber Security Tool, Will Hack For
 
 ### 👤 My Accounts 👤
 
-* [TELEGRAM](https://t.me/termuxxhacking)
+* [TELEGRAM](https://t.me/DefacErr)
 
 * [FACEBOOK](https://www.facebook.com/termuxxhacking)
 
