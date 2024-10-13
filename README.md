@@ -73,10 +73,6 @@ No Need To Ask Wifi Password, HACK it..! This Cyber Security Tool, Will Hack For
 <a href="https://www.tiktok.com/@err0r_hb?_t=8qVhutK5QKf&_r=1"><img align="left" alt="codeSTACKr | TikTok" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tiktok.svg" /></a>
 <a href="https://t.me/DefacErr"><img align="left" alt="codeSTACKr | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /></a><br>
 
-* [FACEBOOK](https://www.facebook.com/termuxxhacking)
-
-* [INSTAGRAM](https://instagram.com/termux_hacking)
-
 <p align="center">
 <a href="https://github.com/Err0r-ICA/followers"><img title="Followers" src="https://img.shields.io/github/followers/lovehacker404?color=blue&style=flat-square"></a>
 <a href="https://github.com/Err0r-ICA/World/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/lovehacker404/World?color=red&style=flat-square"></a>
