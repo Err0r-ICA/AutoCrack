@@ -69,7 +69,9 @@ No Need To Ask Wifi Password, HACK it..! This Cyber Security Tool, Will Hack For
 
 ### 👤 My Accounts 👤
 
-* [TELEGRAM](https://t.me/DefacErr)
+<a href="https://instagram.com/defacer1337"><img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+<a href="https://www.tiktok.com/@err0r_hb?_t=8qVhutK5QKf&_r=1"><img align="left" alt="codeSTACKr | TikTok" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tiktok.svg" /></a>
+<a href="https://t.me/DefacErr"><img align="left" alt="codeSTACKr | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" /></a><br>
 
 * [FACEBOOK](https://www.facebook.com/termuxxhacking)
 
